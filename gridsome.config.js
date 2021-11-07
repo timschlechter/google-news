@@ -7,6 +7,7 @@
 module.exports = {
   siteName: 'Gridsome',
   outputDir: 'docs',
+  pathPrefix: '/google-news',
   plugins: [
     {
       use: '@gridsome/source-filesystem',

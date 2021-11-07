@@ -1,6 +1,6 @@
 export default {
   "trailingSlash": true,
-  "pathPrefix": "",
+  "pathPrefix": "/google-news",
   "titleTemplate": "%s - Gridsome",
   "siteUrl": "",
   "version": "0.7.23",
